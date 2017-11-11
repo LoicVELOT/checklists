@@ -17,6 +17,7 @@
 [Ronflement]
   Duvet (minimum 0°C)
   Plaid
+  Pyjama
   Tente si besoin
   Matelas si besoin
 

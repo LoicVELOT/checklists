@@ -1,18 +1,18 @@
 [A faire avant]
   Ongles coupés !
-  Verifier la presence de sources d'eau
+  Vérifier la présence de sources d'eau.
 
-[Vetements]
+[Vêtements]
   Chaussures hautes de montagne (impermeables, pointures + 1)
   Pantalon adapté
-  Calecon long
+  Caleçon long
   Grosses chaussettes
   Casquette
   Gants
   Bonnet (+ cerveau)
   Poncho / Kway
   Polaire + manteau
-  Vetement de rechange (sous vetements + tshirt pour etre au sec le soir)
+  Vêtements de rechange (sous-vêtements + tshirt pour être au sec le soir)
 
 [Ronflement]
   Duvet (minimum 0°C)
@@ -21,36 +21,36 @@
   Matelas si besoin
 
 [Ustensiles de cuisine]
-  Couteau aiguisé, fouchette, cuillere
+  Couteau aiguisé, fourchette, cuillère
   Tire-bouchon (de la CGT)
   Ecuelle
   Verre
-  Bouteille d'eau / gourde
+  Bouteille d'eau / Gourde
 
-  Rechaud + recharge de gaz
+  Réchaud + recharge de gaz
 
 [Outils rando]
-  Sac a dos (minimum 70L)
-  Sacs plastique pour rangement dans le sac a dos
+  Sac-à-dos (minimum 70L)
+  Sacs plastique pour rangement dans le sac-à-dos
   Sacs poubelle
 
   Jumelles
-  Altimetre
+  Altimètre
   Boussole
-  Carte IGN 1/250000 recente
+  Carte IGN 1/25000 récente
   Guide plantes et champignons
 
   Raquettes
   Batons
-  Guetres
+  Guêtres
 
-  Lampe frontale / lampe de poche
+  Lampe frontale / Lampe de poche
   Bougies
 
   !!!!!!! PQ !!!!!!
 
-  Lunette de soleil
-  Creme solaire
+  Lunettes de soleil
+  Crème solaire
 
   Tabac
   Plusieurs briquets (tempete)

@@ -1,3 +1,78 @@
-Ongles coupés !
-Chaussures de montagne hautes pointures +1
-vin rouge
+[A faire avant]
+  Ongles coupés !
+  Verifier la presence de sources d'eau
+
+[Vetements]
+  Chaussures hautes de montagne (impermeables, pointures + 1)
+  Pantalon adapté
+  Calecon long
+  Grosses chaussettes
+  Casquette
+  Gants
+  Bonnet (+ cerveau)
+  Poncho / Kway
+  Polaire + manteau
+  Vetement de rechange (sous vetements + tshirt pour etre au sec le soir)
+
+[Ronflement]
+  Duvet (minimum 0°C)
+  Plaid
+  Tente si besoin
+  Matelas si besoin
+
+[Ustensiles de cuisine]
+  Couteau aiguisé, fouchette, cuillere
+  Tire-bouchon (de la CGT)
+  Ecuelle
+  Verre
+  Bouteille d'eau / gourde
+
+  Rechaud + recharge de gaz
+
+[Outils rando]
+  Sac a dos (minimum 70L)
+  Sacs plastique pour rangement dans le sac a dos
+  Sacs poubelle
+
+  Jumelles
+  Altimetre
+  Boussole
+  Carte IGN 1/250000 recente
+  Guide plantes et champignons
+
+  Raquettes
+  Batons
+  Guetres
+
+  Lampe frontale / lampe de poche
+  Bougies
+
+  !!!!!!! PQ !!!!!!
+
+  Lunette de soleil
+  Creme solaire
+
+  Tabac
+  Plusieurs briquets (tempete)
+
+  Medicaments
+  Trousse de secours
+  Anti moustique
+  Brosse a dent
+
+  Jeux (Yams, mot fléchés, ...)
+  Jonglage de feu
+  
+  Chauffe main
+
+[High tech]
+  batterie de secours + cable USB
+  enceintes + cable jack
+  Appareil photo
+  Smartphone (cartes map.me et view ranger téléchargées)
+  Piles de secours
+
+[Picole]
+  Cubi de vin rouge (minimum 1LSP - Litron par soir par personne)
+  Bouffe (Penser au talon!!)
+  Café / thé / sucre

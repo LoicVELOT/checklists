@@ -3,11 +3,10 @@
   Vérifier la présence de sources d'eau.
 
 [Vêtements]
-  Chaussures hautes de montagne (impermeables, pointures + 1)
+  Chaussures hautes de montagne (impermeables, pointures + 1) équipées de semelles
   Pantalon adapté
   Caleçon long
-  Grosses chaussettes
-  Chaussettes anti-ampoules si possible...
+  Grosses chaussettes (anti-ampoules si possible...)
   Casquette
   Gants
   Bonnet (+ cerveau)
@@ -76,7 +75,14 @@
 
 [Picole]
   Cubi de vin rouge (minimum 1LSP - Litron par soir par personne)
-  Bouffe (Penser au talon!!)
+  Bouffe salée
+	Talons de jambons
+	Oeufs durs
+  Bouffe sucrée
+	Consistance matinale
+	Fruits secs
+		Abricots secs
+		Pruneaux d'Agen
   Café / thé / sucre
 
 [Musique]

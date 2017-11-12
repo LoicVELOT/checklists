@@ -36,63 +36,63 @@
   (Réchaud + recharge de gaz)
 
 [Outils rando]
-  Sac a dos (minimum 70L)
-  Petit sac a dos
-  Sacs plastique pour rangement dans le sac a dos
+  Sac-à-dos (minimum 70L)
+  Petit sac-à-dos
+  Sacs plastique pour rangement dans le sac-à-dos
   Sacs poubelle
 
   Lampe frontale / lampe de poche
 
   !!!!!!! PQ !!!!!!
 
-  Lunette de soleil
-  Creme solaire
+  Lunettes de soleil
+  Crème solaire
 
   Tabac
-  Plusieurs briquets bien rechargés (tempete)
+  Plusieurs briquets bien rechargés (tempête)
 
-  Medicaments + ordonnances
+  Médicaments + ordonnances
   Trousse de secours
-  Anti moustique / anti midges
-  Brosse a dent + dentifrice
-  Savon (de marseille ou d'alep)
-  Baume a levre
-  Ciseaux + coupe ongles
+  Anti-moustique / anti-midges
+  Brosse-à-dent + dentifrice
+  Savon (de Marseille ou d'Alep)
+  Baume-à-lèvre
+  Ciseaux + Coupe-ongles
   Petit mirroir
 
-[Velo]
+[Vélo]
   VTC
-    Pneus 700 * 35 tout chemins
+    Pneus 700 * 35 C tous chemins
     Minimum 18 vitesses
     Cagette avant / arrière
     Facilement démontable
     Sonette
-    compteur
+    Compteur
   Housse pour vélo (cadre + roues) ou Bousse (bache-housse)
-  Tableaux de bords avec transparant neuf
+  Tableau de bord avec transparent neuf
   Lumiere avant / arriere
-  Chambre a air de rechange
-  Kit rustine + demonte pneus
-  Pompe multi-valve
-  Outils pour demonter les roues
-  Cles plates 
-  Cles allen
-  Cle a molette
+  Chambre-à-air de rechange
+  Kit rustine + démonte-pneus
+  Pompe multi-valves
+  Outils pour démonter les roues
+  Clés plates 
+  Clés allen
+  Clé a molette
   Tournevis
-  cle a rayons
-  Derive chaine
-  Demonte roue libre
+  clé à rayons
+  Dérive-chaîne
+  Démonte-roue-libre
   Pince multiple / coupante
-  chiffon
+  Chiffon
   Sur-selle
-  Huile / degripant
+  Huile / dégrippant
   Ficelle + Fil de fer
-  Tendeurs ou chambre a aire mortes
+  Tendeurs ou chambres à air mortes
 
 [Paperasse]
   Papiers d'identités (carte d'identité, passeport, permis de conduire)
-  Carte de sécurité europenne
-  Codes d'acces aux sites important
+  Carte de sécurité européenne
+  Codes d'accès aux sites important
   Carnet de voyage
   Carnet d'adresses + numéro de telephones
   Trousse (Kit pour ecrire, clef usb, ...)
@@ -101,11 +101,11 @@
   Bouquin
 
 [High tech]
-  batterie de secours + cable USB
-  enceintes + cable jack
+  batterie de secours + câble USB
+  enceintes + câble jack
   Appareil photo
-  Smartphone (cartes map.me et view ranger téléchargées)
+  Smartphone (cartes maps.me et view ranger téléchargées)
   Piles de secours
 
 [Bouffe]
-  chewing-gum + ricolas
+  chewing-gum + Ricola

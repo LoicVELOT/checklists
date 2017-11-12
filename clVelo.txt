@@ -1,24 +1,24 @@
 [A faire avant]
   Ongles + barbe + cheveux coupés !
-  Compte bancaire: faire les virements necessaire + verifier qu'on peut retirer a l'etranger
-  Telephone: Verifier que l'option internationale est activée
-  Demander la carte europenne d'assurance maladie
+  Compte bancaire: faire les virements nécessaire + vérifier qu'on peut retirer a l'étranger
+  Téléphone: Vérifier que l'option internationale est activée
+  Demander la carte européenne d'assurance maladie
 
-[Vetements]
-  Chaussures impermeables
-  Sous vetements pour 7 jours
+[Vêtements]
+  Chaussures imperméables
+  Sous-vêtements pour 7 jours
   Une tenue pour grosse chaleur
   Une tenue pour grand froid
   Une tenue de pluie
-  Deux pantalons dont un qui seche vite
+  Deux pantalons dont un qui sèche vite
   Maillot de bain
   Serviette
-  Calecon long
+  Caleçon long
   Casquette
   Gants
   Bonnet (+ cerveau)
   Polaire
-  Deux sweets 
+  Deux sweats 
  
 [Ronflement]
   Duvet (minimum 0°C)
@@ -26,14 +26,14 @@
   Matelas
 
 [Ustensiles de cuisine]
-  Couteau aiguisé, fouchette, cuillere
+  Couteau aiguisé, fourchette, cuillere
   Tire-bouchon (de la CGT)
   Ecuelle
   Verre
   Bouteille d'eau / gourde
-  Grille barbeq
+  Grille barbecue
 
-  (Rechaud + recharge de gaz)
+  (Réchaud + recharge de gaz)
 
 [Outils rando]
   Sac a dos (minimum 70L)

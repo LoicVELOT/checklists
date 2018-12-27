@@ -76,15 +76,25 @@
 
 [Picole]
   Cubi de vin rouge (minimum 1LSP - Litron par soir par personne)
+  
+  Pain
+  
   Bouffe salée
-	Talons de jambons
+	Charcuterie (Talons de jambons...)
+	Viande
 	Oeufs durs
+	Fromage
+	Salades en boite
+	
   Bouffe sucrée
 	Consistance matinale
+	Fruits
 	Fruits secs
 		Abricots secs
 		Pruneaux d'Agen
   Café / thé / sucre
-
+  
+  Saint yorre, ça va fort
+  
 [Musique]
 Piccolo ou fifre + partition si possible

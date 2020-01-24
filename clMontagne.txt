@@ -85,6 +85,7 @@
 	Oeufs durs
 	Fromage
 	Salades en boite
+	Homard
 	
   Bouffe sucrée
 	Consistance matinale
